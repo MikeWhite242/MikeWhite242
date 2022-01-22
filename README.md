@@ -19,6 +19,8 @@
 <br />
 <br />
 
+![statz](https://github-readme-stats.vercel.app/api?username=MikeWhite242&count_private=true&theme=dark&include_all_commits=true)
+
 </details>
 
 [discord]: https://discord.gg/vnxhcd8KEU
