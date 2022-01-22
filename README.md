@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding.
 - 🌱 I’m currently learning lua.
 - 💞️ I’m looking to collaborate on discord.
-### 📫 How to reach me:
+### How to reach me:
 
 [<img align="left" alt="https://discord.gg/vnxhcd8KEU" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
 
