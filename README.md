@@ -1,5 +1,5 @@
 
-#Mike White
+# Mike White
 - 👋 Hi, I’m @MikeWhite242
 - 👀 I’m interested in coding.
 - 🌱 I’m currently learning lua.
