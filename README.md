@@ -26,7 +26,8 @@
 
 #
 
-![statz](https://github-readme-stats.vercel.app/api?username=MikeWhite242&count_private=true&theme=dark&include_all_commits=true)
+| <a href="https://github.com/MikeWhite242"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Bilwin&layout=compact&hide_border=true&theme=dark" alt="Mike White's github stats" /></a> | <a href="https://github.com/MikeWhite242"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MikeWhite242&layout=compact&hide_border=true&langs_count=999&theme=dark" /></a> |
+| ------------- | ------------- |
 
 #
 
@@ -38,3 +39,5 @@
 MikeWhite242/MikeWhite242 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+
