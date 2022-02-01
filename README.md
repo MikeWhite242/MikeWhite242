@@ -1,17 +1,12 @@
+| <a href="https://github.com/MikeWhite242"><img align="center" src="https://github-readme-stats.vercel.app/api?username=MikeWhite242&layout=compact&hide_border=true&theme=dark" alt="Mike White's github stats" /></a> |
 
 # Mike White
 - 👋 Hi, I’m @MikeWhite242
-- 👀 I’m interested in coding.
-- 🌱 I’m currently learning lua.
-- 💞️ I’m looking to collaborate on discord.
+- I’m interested in coding.
+- I’m currently learning lua.
+- I’m looking to collaborate on discord.
 #
-### How to reach me:
 
-[<img align="left" alt="https://discord.gg/vnxhcd8KEU" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
-
-<br />
-
-#
 
 ### Languages and Tools:
 
@@ -26,7 +21,6 @@
 
 #
 
-| <a href="https://github.com/MikeWhite242"><img align="center" src="https://github-readme-stats.vercel.app/api?username=MikeWhite242&layout=compact&hide_border=true&theme=dark" alt="Mike White's github stats" /></a> | <a href="https://github.com/MikeWhite242"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MikeWhite242&layout=compact&hide_border=true&langs_count=999&theme=dark" /></a> |
 | ------------- | ------------- |
 
 #
