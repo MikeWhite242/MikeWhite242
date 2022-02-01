@@ -1,4 +1,4 @@
-| <a href="https://github.com/MikeWhite242"><img align="center" src="https://github-readme-stats.vercel.app/api?username=MikeWhite242&layout=compact&hide_border=true&theme=dark" alt="Mike White's github stats" /></a> |
+<a href="https://github.com/MikeWhite242"><img align="center" src="https://github-readme-stats.vercel.app/api?username=MikeWhite242&layout=compact&hide_border=true&theme=dark" alt="Mike White's github stats" /></a>
 
 # Mike White
 - 👋 Hi, I’m @MikeWhite242
@@ -18,10 +18,6 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <br />
 <br />
-
-#
-
-| ------------- | ------------- |
 
 #
 
